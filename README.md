@@ -4,7 +4,7 @@ Este é um projeto simples de um gerador de senhas aleatórias utilizando JavaSc
 
 ## 🚀 Funcionalidades
 
-- Gerar senhas aleatórias de um comprimento definido pelo usuário.
+- Gerar senhas aleatórias de 21 caracteres
 - Incluir letras maiúsculas, minúsculas, números e caracteres especiais na senha.
 - Copiar a senha gerada para a área de transferência.
 
