@@ -14,4 +14,6 @@ passwordElement.addEventListener('click', () => {
 copyButton.addEventListener('click', () => {
   const text = displayPasswordElement.textContent;
   copy(text);
+  // eslint-disable-next-line no-alert
+  window.alert('Senha copiada com sucesso');
 });
